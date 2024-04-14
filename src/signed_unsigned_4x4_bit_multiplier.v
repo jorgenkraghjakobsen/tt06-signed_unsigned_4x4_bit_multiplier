@@ -29,7 +29,7 @@ module full_adder(a, b, c, sum_out, carry_out);
   assign carry_out = _6_;
 endmodule
 
-module tt_um_signed_unsigned_4x4_bit_multiplier(multiplicand, multiplier, signed_mode, product);
+module signed_unsigned_4x4_bit_multiplier(multiplicand, multiplier, signed_mode, product);
   wire [7:0] _0_;
   input [3:0] multiplicand;
   wire [3:0] multiplicand;
