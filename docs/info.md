@@ -9,10 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
+Ole you add comment here
+
 Explain how your project works later
 
 ## How to test
 
+Ole you add comment here
 Explain how to use your project later
 
 ## External hardware
